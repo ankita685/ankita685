@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 <br>
 
 ###
 
